@@ -4,3265 +4,3265 @@
             "action": "dapatkan x_actual , y_actual , y_prediksi",
             "m_prediksi_before": 10,
             "x_actual": 0.1,
-            "y_actual": 0.3624846603858042,
+            "y_actual": 0.30345444876224736,
             "y_prediksi": 1.0
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.6375153396141958,
-            "delta_m_before": -6.3751533961419575,
+            "error": -0.6965455512377526,
+            "delta_m_before": -6.965455512377526,
             "learning_rate": 0.1,
-            "delta_m": -0.6375153396141958
+            "delta_m": -0.6965455512377526
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
             "m_prediksi_before": 10,
-            "m_prediksi": 9.362484660385805
+            "m_prediksi": 9.303454448762247
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 9.362484660385805,
+            "m_prediksi": 9.303454448762247,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                93.62484660385805
+                93.03454448762247
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 9.362484660385805,
+            "m_prediksi_before": 9.303454448762247,
             "x_actual": 0.2,
-            "y_actual": 0.28763769224306973,
-            "y_prediksi": 1.8724969320771612
+            "y_actual": 0.9396435212064804,
+            "y_prediksi": 1.8606908897524495
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.5848592398340915,
-            "delta_m_before": -7.924296199170457,
+            "error": -0.921047368545969,
+            "delta_m_before": -4.605236842729845,
             "learning_rate": 0.1,
-            "delta_m": -0.7924296199170457
+            "delta_m": -0.4605236842729845
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 9.362484660385805,
-            "m_prediksi": 8.570055040468759
+            "m_prediksi_before": 9.303454448762247,
+            "m_prediksi": 8.842930764489262
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 8.570055040468759,
+            "m_prediksi": 8.842930764489262,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                85.70055040468759
+                88.42930764489262
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 8.570055040468759,
+            "m_prediksi_before": 8.842930764489262,
             "x_actual": 0.30000000000000004,
-            "y_actual": 0.4738863587149639,
-            "y_prediksi": 2.571016512140628
+            "y_actual": 0.5188947518493547,
+            "y_prediksi": 2.652879229346779
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.097130153425664,
-            "delta_m_before": -6.9904338447522125,
+            "error": -2.133984477497424,
+            "delta_m_before": -7.11328159165808,
             "learning_rate": 0.1,
-            "delta_m": -0.6990433844752213
+            "delta_m": -0.711328159165808
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 8.570055040468759,
-            "m_prediksi": 7.871011655993538
+            "m_prediksi_before": 8.842930764489262,
+            "m_prediksi": 8.131602605323454
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 7.871011655993538,
+            "m_prediksi": 8.131602605323454,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                78.71011655993539
+                81.31602605323454
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 7.871011655993538,
+            "m_prediksi_before": 8.131602605323454,
             "x_actual": 0.4,
-            "y_actual": 0.9189126400941532,
-            "y_prediksi": 3.1484046623974153
+            "y_actual": 0.470327157636378,
+            "y_prediksi": 3.252641042129382
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.229492022303262,
-            "delta_m_before": -5.573730055758155,
+            "error": -2.782313884493004,
+            "delta_m_before": -6.95578471123251,
             "learning_rate": 0.1,
-            "delta_m": -0.5573730055758155
+            "delta_m": -0.695578471123251
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 7.871011655993538,
-            "m_prediksi": 7.313638650417722
+            "m_prediksi_before": 8.131602605323454,
+            "m_prediksi": 7.436024134200204
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 7.313638650417722,
+            "m_prediksi": 7.436024134200204,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                73.13638650417722
+                74.36024134200204
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 7.313638650417722,
+            "m_prediksi_before": 7.436024134200204,
             "x_actual": 0.5,
-            "y_actual": 0.6761979758835307,
-            "y_prediksi": 3.656819325208861
+            "y_actual": 1.2176652073222631,
+            "y_prediksi": 3.718012067100102
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.9806213493253306,
-            "delta_m_before": -5.961242698650661,
+            "error": -2.5003468597778387,
+            "delta_m_before": -5.000693719555677,
             "learning_rate": 0.1,
-            "delta_m": -0.5961242698650662
+            "delta_m": -0.5000693719555678
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 7.313638650417722,
-            "m_prediksi": 6.7175143805526565
+            "m_prediksi_before": 7.436024134200204,
+            "m_prediksi": 6.935954762244636
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 6.7175143805526565,
+            "m_prediksi": 6.935954762244636,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                67.17514380552656
+                69.35954762244636
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 6.7175143805526565,
+            "m_prediksi_before": 6.935954762244636,
             "x_actual": 0.6000000000000001,
-            "y_actual": 1.2985559990236462,
-            "y_prediksi": 4.030508628331594
+            "y_actual": 0.9826148792466084,
+            "y_prediksi": 4.1615728573467825
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.7319526293079477,
-            "delta_m_before": -4.5532543821799125,
+            "error": -3.178957978100174,
+            "delta_m_before": -5.298263296833623,
             "learning_rate": 0.1,
-            "delta_m": -0.45532543821799126
+            "delta_m": -0.5298263296833623
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 6.7175143805526565,
-            "m_prediksi": 6.2621889423346655
+            "m_prediksi_before": 6.935954762244636,
+            "m_prediksi": 6.406128432561274
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 6.2621889423346655,
+            "m_prediksi": 6.406128432561274,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                62.62188942334666
+                64.06128432561273
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 6.2621889423346655,
+            "m_prediksi_before": 6.406128432561274,
             "x_actual": 0.7000000000000001,
-            "y_actual": 0.8464970651016392,
-            "y_prediksi": 4.383532259634266
+            "y_actual": 1.677600234151224,
+            "y_prediksi": 4.484289902792892
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.537035194532627,
-            "delta_m_before": -5.052907420760895,
+            "error": -2.8066896686416687,
+            "delta_m_before": -4.009556669488098,
             "learning_rate": 0.1,
-            "delta_m": -0.5052907420760895
+            "delta_m": -0.4009556669488098
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 6.2621889423346655,
-            "m_prediksi": 5.756898200258576
+            "m_prediksi_before": 6.406128432561274,
+            "m_prediksi": 6.005172765612464
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 5.756898200258576,
+            "m_prediksi": 6.005172765612464,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                57.568982002585756
+                60.05172765612464
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 5.756898200258576,
+            "m_prediksi_before": 6.005172765612464,
             "x_actual": 0.8,
-            "y_actual": 0.8161209437164569,
-            "y_prediksi": 4.6055185602068605
+            "y_actual": 1.5304649872001295,
+            "y_prediksi": 4.804138212489971
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.7893976164904037,
-            "delta_m_before": -4.736747020613004,
+            "error": -3.273673225289842,
+            "delta_m_before": -4.0920915316123025,
             "learning_rate": 0.1,
-            "delta_m": -0.4736747020613004
+            "delta_m": -0.4092091531612303
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 5.756898200258576,
-            "m_prediksi": 5.283223498197275
+            "m_prediksi_before": 6.005172765612464,
+            "m_prediksi": 5.595963612451234
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 5.283223498197275,
+            "m_prediksi": 5.595963612451234,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                52.832234981972746
+                55.95963612451234
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 5.283223498197275,
+            "m_prediksi_before": 5.595963612451234,
             "x_actual": 0.9,
-            "y_actual": 0.9410325894089477,
-            "y_prediksi": 4.754901148377548
+            "y_actual": 1.2829751637919435,
+            "y_prediksi": 5.03636725120611
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.8138685589686,
-            "delta_m_before": -4.237631732187333,
+            "error": -3.753392087414167,
+            "delta_m_before": -4.170435652682407,
             "learning_rate": 0.1,
-            "delta_m": -0.42376317321873336
+            "delta_m": -0.4170435652682407
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 5.283223498197275,
-            "m_prediksi": 4.859460324978541
+            "m_prediksi_before": 5.595963612451234,
+            "m_prediksi": 5.178920047182993
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 4.859460324978541,
+            "m_prediksi": 5.178920047182993,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                48.594603249785415
+                51.78920047182993
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 4.859460324978541,
+            "m_prediksi_before": 5.178920047182993,
             "x_actual": 1.0,
-            "y_actual": 1.385273509524743,
-            "y_prediksi": 4.859460324978541
+            "y_actual": 1.9442047561107385,
+            "y_prediksi": 5.178920047182993
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.4741868154537983,
-            "delta_m_before": -3.4741868154537983,
+            "error": -3.2347152910722548,
+            "delta_m_before": -3.2347152910722548,
             "learning_rate": 0.1,
-            "delta_m": -0.34741868154537986
+            "delta_m": -0.3234715291072255
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 4.859460324978541,
-            "m_prediksi": 4.512041643433162
+            "m_prediksi_before": 5.178920047182993,
+            "m_prediksi": 4.855448518075768
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 4.512041643433162,
+            "m_prediksi": 4.855448518075768,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                45.12041643433162
+                48.55448518075768
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 4.512041643433162,
+            "m_prediksi_before": 4.855448518075768,
             "x_actual": 1.1,
-            "y_actual": 1.6368007124696033,
-            "y_prediksi": 4.963245807776478
+            "y_actual": 1.3931448718386266,
+            "y_prediksi": 5.340993369883345
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.326445095306875,
-            "delta_m_before": -3.0240409957335226,
+            "error": -3.947848498044719,
+            "delta_m_before": -3.588953180040653,
             "learning_rate": 0.1,
-            "delta_m": -0.3024040995733523
+            "delta_m": -0.3588953180040653
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 4.512041643433162,
-            "m_prediksi": 4.2096375438598095
+            "m_prediksi_before": 4.855448518075768,
+            "m_prediksi": 4.496553200071703
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 4.2096375438598095,
+            "m_prediksi": 4.496553200071703,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                42.096375438598095
+                44.965532000717026
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 4.2096375438598095,
+            "m_prediksi_before": 4.496553200071703,
             "x_actual": 1.2000000000000002,
-            "y_actual": 1.676050869702689,
-            "y_prediksi": 5.051565052631772
+            "y_actual": 1.3184686357458162,
+            "y_prediksi": 5.395863840086044
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.375514182929083,
-            "delta_m_before": -2.8129284857742354,
+            "error": -4.0773952043402275,
+            "delta_m_before": -3.3978293369501893,
             "learning_rate": 0.1,
-            "delta_m": -0.28129284857742354
+            "delta_m": -0.33978293369501894
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 4.2096375438598095,
-            "m_prediksi": 3.928344695282386
+            "m_prediksi_before": 4.496553200071703,
+            "m_prediksi": 4.156770266376684
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 3.928344695282386,
+            "m_prediksi": 4.156770266376684,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                39.28344695282386
+                41.56770266376684
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 3.928344695282386,
+            "m_prediksi_before": 4.156770266376684,
             "x_actual": 1.3,
-            "y_actual": 1.886705225934053,
-            "y_prediksi": 5.106848103867102
+            "y_actual": 2.1465743870950518,
+            "y_prediksi": 5.40380134628969
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.220142877933049,
-            "delta_m_before": -2.4770329830254223,
+            "error": -3.257226959194638,
+            "delta_m_before": -2.5055591993804907,
             "learning_rate": 0.1,
-            "delta_m": -0.24770329830254223
+            "delta_m": -0.2505559199380491
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 3.928344695282386,
-            "m_prediksi": 3.6806413969798437
+            "m_prediksi_before": 4.156770266376684,
+            "m_prediksi": 3.906214346438635
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 3.6806413969798437,
+            "m_prediksi": 3.906214346438635,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                36.806413969798434
+                39.06214346438635
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 3.6806413969798437,
+            "m_prediksi_before": 3.906214346438635,
             "x_actual": 1.4000000000000001,
-            "y_actual": 1.9820384913715852,
-            "y_prediksi": 5.152897955771782
+            "y_actual": 1.6952945587229347,
+            "y_prediksi": 5.468700085014089
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.1708594644001966,
-            "delta_m_before": -2.2648996174287115,
+            "error": -3.7734055262911546,
+            "delta_m_before": -2.6952896616365387,
             "learning_rate": 0.1,
-            "delta_m": -0.22648996174287117
+            "delta_m": -0.2695289661636539
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 3.6806413969798437,
-            "m_prediksi": 3.4541514352369727
+            "m_prediksi_before": 3.906214346438635,
+            "m_prediksi": 3.6366853802749812
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 3.4541514352369727,
+            "m_prediksi": 3.6366853802749812,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                34.541514352369724
+                36.366853802749816
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 3.4541514352369727,
+            "m_prediksi_before": 3.6366853802749812,
             "x_actual": 1.5,
-            "y_actual": 2.1801105868404207,
-            "y_prediksi": 5.181227152855459
+            "y_actual": 1.9387726193119785,
+            "y_prediksi": 5.455028070412472
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.001116566015038,
-            "delta_m_before": -2.000744377343359,
+            "error": -3.516255451100493,
+            "delta_m_before": -2.344170300733662,
             "learning_rate": 0.1,
-            "delta_m": -0.2000744377343359
+            "delta_m": -0.23441703007336623
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 3.4541514352369727,
-            "m_prediksi": 3.254076997502637
+            "m_prediksi_before": 3.6366853802749812,
+            "m_prediksi": 3.402268350201615
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 3.254076997502637,
+            "m_prediksi": 3.402268350201615,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                32.54076997502637
+                34.02268350201615
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 3.254076997502637,
+            "m_prediksi_before": 3.402268350201615,
             "x_actual": 1.6,
-            "y_actual": 1.6043019396663274,
-            "y_prediksi": 5.20652319600422
+            "y_actual": 1.6019314975052115,
+            "y_prediksi": 5.443629360322585
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -3.6022212563378924,
-            "delta_m_before": -2.2513882852111826,
+            "error": -3.841697862817373,
+            "delta_m_before": -2.401061164260858,
             "learning_rate": 0.1,
-            "delta_m": -0.22513882852111827
+            "delta_m": -0.2401061164260858
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 3.254076997502637,
-            "m_prediksi": 3.0289381689815187
+            "m_prediksi_before": 3.402268350201615,
+            "m_prediksi": 3.162162233775529
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 3.0289381689815187,
+            "m_prediksi": 3.162162233775529,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                30.289381689815187
+                31.62162233775529
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 3.0289381689815187,
+            "m_prediksi_before": 3.162162233775529,
             "x_actual": 1.7000000000000002,
-            "y_actual": 2.2727079613412413,
-            "y_prediksi": 5.149194887268583
+            "y_actual": 2.3457557677425993,
+            "y_prediksi": 5.3756757974184
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.8764869259273413,
-            "delta_m_before": -1.692051132898436,
+            "error": -3.0299200296758007,
+            "delta_m_before": -1.7823058998092942,
             "learning_rate": 0.1,
-            "delta_m": -0.1692051132898436
+            "delta_m": -0.17823058998092944
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 3.0289381689815187,
-            "m_prediksi": 2.859733055691675
+            "m_prediksi_before": 3.162162233775529,
+            "m_prediksi": 2.9839316437945995
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 2.859733055691675,
+            "m_prediksi": 2.9839316437945995,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                28.597330556916752
+                29.839316437945996
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 2.859733055691675,
+            "m_prediksi_before": 2.9839316437945995,
             "x_actual": 1.8,
-            "y_actual": 2.663372010029766,
-            "y_prediksi": 5.147519500245015
+            "y_actual": 2.636949479337602,
+            "y_prediksi": 5.37107695883028
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.484147490215249,
-            "delta_m_before": -1.3800819390084715,
+            "error": -2.7341274794926775,
+            "delta_m_before": -1.5189597108292652,
             "learning_rate": 0.1,
-            "delta_m": -0.13800819390084715
+            "delta_m": -0.15189597108292652
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 2.859733055691675,
-            "m_prediksi": 2.721724861790828
+            "m_prediksi_before": 2.9839316437945995,
+            "m_prediksi": 2.832035672711673
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 2.721724861790828,
+            "m_prediksi": 2.832035672711673,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                27.217248617908282
+                28.320356727116728
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 2.721724861790828,
+            "m_prediksi_before": 2.832035672711673,
             "x_actual": 1.9000000000000001,
-            "y_actual": 2.518547141665079,
-            "y_prediksi": 5.171277237402574
+            "y_actual": 2.8760694693912034,
+            "y_prediksi": 5.3808677781521785
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.652730095737495,
-            "delta_m_before": -1.3961737345986813,
+            "error": -2.504798308760975,
+            "delta_m_before": -1.3183148993478815,
             "learning_rate": 0.1,
-            "delta_m": -0.13961737345986813
+            "delta_m": -0.13183148993478816
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 2.721724861790828,
-            "m_prediksi": 2.58210748833096
+            "m_prediksi_before": 2.832035672711673,
+            "m_prediksi": 2.7002041827768846
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 2.58210748833096,
+            "m_prediksi": 2.7002041827768846,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                25.8210748833096
+                27.002041827768846
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 2.58210748833096,
+            "m_prediksi_before": 2.7002041827768846,
             "x_actual": 2.0,
-            "y_actual": 2.8291748984617007,
-            "y_prediksi": 5.16421497666192
+            "y_actual": 2.16575517002925,
+            "y_prediksi": 5.400408365553769
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.335040078200219,
-            "delta_m_before": -1.1675200391001095,
+            "error": -3.234653195524519,
+            "delta_m_before": -1.6173265977622595,
             "learning_rate": 0.1,
-            "delta_m": -0.11675200391001095
+            "delta_m": -0.16173265977622597
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 2.58210748833096,
-            "m_prediksi": 2.465355484420949
+            "m_prediksi_before": 2.7002041827768846,
+            "m_prediksi": 2.5384715230006587
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 2.465355484420949,
+            "m_prediksi": 2.5384715230006587,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                24.653554844209488
+                25.384715230006588
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 2.465355484420949,
+            "m_prediksi_before": 2.5384715230006587,
             "x_actual": 2.1,
-            "y_actual": 2.2814982577877205,
-            "y_prediksi": 5.177246517283993
+            "y_actual": 2.733631472452952,
+            "y_prediksi": 5.330790198301384
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.8957482594962722,
-            "delta_m_before": -1.3789277426172724,
+            "error": -2.597158725848432,
+            "delta_m_before": -1.236742250404015,
             "learning_rate": 0.1,
-            "delta_m": -0.13789277426172725
+            "delta_m": -0.12367422504040151
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 2.465355484420949,
-            "m_prediksi": 2.327462710159222
+            "m_prediksi_before": 2.5384715230006587,
+            "m_prediksi": 2.414797297960257
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 2.327462710159222,
+            "m_prediksi": 2.414797297960257,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                23.274627101592216
+                24.14797297960257
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 2.327462710159222,
+            "m_prediksi_before": 2.414797297960257,
             "x_actual": 2.2,
-            "y_actual": 2.283942010620178,
-            "y_prediksi": 5.120417962350288
+            "y_actual": 2.730350654195636,
+            "y_prediksi": 5.312554055512566
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.83647595173011,
-            "delta_m_before": -1.2893072507864134,
+            "error": -2.5822034013169297,
+            "delta_m_before": -1.1737288187804225,
             "learning_rate": 0.1,
-            "delta_m": -0.12893072507864134
+            "delta_m": -0.11737288187804225
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 2.327462710159222,
-            "m_prediksi": 2.1985319850805807
+            "m_prediksi_before": 2.414797297960257,
+            "m_prediksi": 2.297424416082215
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 2.1985319850805807,
+            "m_prediksi": 2.297424416082215,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                21.98531985080581
+                22.97424416082215
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 2.1985319850805807,
+            "m_prediksi_before": 2.297424416082215,
             "x_actual": 2.3000000000000003,
-            "y_actual": 2.817430143334203,
-            "y_prediksi": 5.056623565685336
+            "y_actual": 2.355867896542013,
+            "y_prediksi": 5.284076156989094
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.239193422351133,
-            "delta_m_before": -0.9735623575439707,
+            "error": -2.9282082604470814,
+            "delta_m_before": -1.2731340262813395,
             "learning_rate": 0.1,
-            "delta_m": -0.09735623575439707
+            "delta_m": -0.12731340262813395
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 2.1985319850805807,
-            "m_prediksi": 2.101175749326184
+            "m_prediksi_before": 2.297424416082215,
+            "m_prediksi": 2.170111013454081
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 2.101175749326184,
+            "m_prediksi": 2.170111013454081,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                21.01175749326184
+                21.70111013454081
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 2.101175749326184,
+            "m_prediksi_before": 2.170111013454081,
             "x_actual": 2.4000000000000004,
-            "y_actual": 3.3273114400616763,
-            "y_prediksi": 5.042821798382842
+            "y_actual": 2.964186440730453,
+            "y_prediksi": 5.208266432289795
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.7155103583211653,
-            "delta_m_before": -0.7147959826338187,
+            "error": -2.2440799915593423,
+            "delta_m_before": -0.9350333298163925,
             "learning_rate": 0.1,
-            "delta_m": -0.07147959826338188
+            "delta_m": -0.09350333298163926
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 2.101175749326184,
-            "m_prediksi": 2.0296961510628018
+            "m_prediksi_before": 2.170111013454081,
+            "m_prediksi": 2.0766076804724416
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 2.0296961510628018,
+            "m_prediksi": 2.0766076804724416,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                20.296961510628016
+                20.766076804724417
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 2.0296961510628018,
+            "m_prediksi_before": 2.0766076804724416,
             "x_actual": 2.5,
-            "y_actual": 2.750257939516184,
-            "y_prediksi": 5.074240377657004
+            "y_actual": 3.3910692965884577,
+            "y_prediksi": 5.191519201181104
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.32398243814082,
-            "delta_m_before": -0.929592975256328,
+            "error": -1.8004499045926465,
+            "delta_m_before": -0.7201799618370586,
             "learning_rate": 0.1,
-            "delta_m": -0.09295929752563281
+            "delta_m": -0.07201799618370586
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 2.0296961510628018,
-            "m_prediksi": 1.936736853537169
+            "m_prediksi_before": 2.0766076804724416,
+            "m_prediksi": 2.0045896842887356
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.936736853537169,
+            "m_prediksi": 2.0045896842887356,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                19.36736853537169
+                20.045896842887355
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.936736853537169,
+            "m_prediksi_before": 2.0045896842887356,
             "x_actual": 2.6,
-            "y_actual": 3.289384931491885,
-            "y_prediksi": 5.03551581919664
+            "y_actual": 2.7678855103677003,
+            "y_prediksi": 5.211933179150713
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.7461308877047546,
-            "delta_m_before": -0.6715888029633671,
+            "error": -2.444047668783013,
+            "delta_m_before": -0.9400183341473126,
             "learning_rate": 0.1,
-            "delta_m": -0.06715888029633671
+            "delta_m": -0.09400183341473127
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.936736853537169,
-            "m_prediksi": 1.8695779732408322
+            "m_prediksi_before": 2.0045896842887356,
+            "m_prediksi": 1.9105878508740044
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.8695779732408322,
+            "m_prediksi": 1.9105878508740044,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                18.695779732408322
+                19.105878508740044
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.8695779732408322,
+            "m_prediksi_before": 1.9105878508740044,
             "x_actual": 2.7,
-            "y_actual": 2.8848942133775406,
-            "y_prediksi": 5.047860527750247
+            "y_actual": 3.3111578094556893,
+            "y_prediksi": 5.158587197359812
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -2.1629663143727065,
-            "delta_m_before": -0.8010986349528542,
+            "error": -1.8474293879041226,
+            "delta_m_before": -0.6842331066311564,
             "learning_rate": 0.1,
-            "delta_m": -0.08010986349528543
+            "delta_m": -0.06842331066311565
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.8695779732408322,
-            "m_prediksi": 1.7894681097455467
+            "m_prediksi_before": 1.9105878508740044,
+            "m_prediksi": 1.8421645402108888
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.7894681097455467,
+            "m_prediksi": 1.8421645402108888,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                17.894681097455468
+                18.421645402108886
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.7894681097455467,
+            "m_prediksi_before": 1.8421645402108888,
             "x_actual": 2.8000000000000003,
-            "y_actual": 3.7773039549874436,
-            "y_prediksi": 5.010510707287532
+            "y_actual": 2.8674070550955335,
+            "y_prediksi": 5.15806071259049
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.233206752300088,
-            "delta_m_before": -0.4404309829643171,
+            "error": -2.290653657494956,
+            "delta_m_before": -0.8180905919624842,
             "learning_rate": 0.1,
-            "delta_m": -0.044043098296431715
+            "delta_m": -0.08180905919624842
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.7894681097455467,
-            "m_prediksi": 1.745425011449115
+            "m_prediksi_before": 1.8421645402108888,
+            "m_prediksi": 1.7603554810146405
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.745425011449115,
+            "m_prediksi": 1.7603554810146405,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                17.45425011449115
+                17.603554810146406
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.745425011449115,
+            "m_prediksi_before": 1.7603554810146405,
             "x_actual": 2.9000000000000004,
-            "y_actual": 3.2713094578075266,
-            "y_prediksi": 5.061732533202434
+            "y_actual": 3.819716128485968,
+            "y_prediksi": 5.105030894942458
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.7904230753949077,
-            "delta_m_before": -0.6173872673775543,
+            "error": -1.28531476645649,
+            "delta_m_before": -0.4432119884332723,
             "learning_rate": 0.1,
-            "delta_m": -0.061738726737755434
+            "delta_m": -0.044321198843327234
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.745425011449115,
-            "m_prediksi": 1.6836862847113596
+            "m_prediksi_before": 1.7603554810146405,
+            "m_prediksi": 1.7160342821713133
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.6836862847113596,
+            "m_prediksi": 1.7160342821713133,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                16.836862847113597
+                17.160342821713133
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.6836862847113596,
+            "m_prediksi_before": 1.7160342821713133,
             "x_actual": 3.0,
-            "y_actual": 3.1819780226630687,
-            "y_prediksi": 5.051058854134078
+            "y_actual": 3.843610811404186,
+            "y_prediksi": 5.14810284651394
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.8690808314710097,
-            "delta_m_before": -0.6230269438236699,
+            "error": -1.3044920351097535,
+            "delta_m_before": -0.43483067836991784,
             "learning_rate": 0.1,
-            "delta_m": -0.06230269438236699
+            "delta_m": -0.04348306783699179
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.6836862847113596,
-            "m_prediksi": 1.6213835903289926
+            "m_prediksi_before": 1.7160342821713133,
+            "m_prediksi": 1.6725512143343215
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.6213835903289926,
+            "m_prediksi": 1.6725512143343215,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                16.213835903289926
+                16.725512143343217
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.6213835903289926,
+            "m_prediksi_before": 1.6725512143343215,
             "x_actual": 3.1,
-            "y_actual": 4.014517974030502,
-            "y_prediksi": 5.026289130019877
+            "y_actual": 3.224657602456049,
+            "y_prediksi": 5.184908764436397
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.0117711559893747,
-            "delta_m_before": -0.326377792254637,
+            "error": -1.9602511619803478,
+            "delta_m_before": -0.6323390845097896,
             "learning_rate": 0.1,
-            "delta_m": -0.0326377792254637
+            "delta_m": -0.06323390845097897
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.6213835903289926,
-            "m_prediksi": 1.5887458111035289
+            "m_prediksi_before": 1.6725512143343215,
+            "m_prediksi": 1.6093173058833425
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.5887458111035289,
+            "m_prediksi": 1.6093173058833425,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                15.887458111035288
+                16.093173058833425
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.5887458111035289,
+            "m_prediksi_before": 1.6093173058833425,
             "x_actual": 3.2,
-            "y_actual": 3.8810129528213735,
-            "y_prediksi": 5.083986595531293
+            "y_actual": 3.493003576032994,
+            "y_prediksi": 5.1498153788266965
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.2029736427099196,
-            "delta_m_before": -0.37592926334684984,
+            "error": -1.6568118027937024,
+            "delta_m_before": -0.5177536883730319,
             "learning_rate": 0.1,
-            "delta_m": -0.03759292633468499
+            "delta_m": -0.051775368837303194
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.5887458111035289,
-            "m_prediksi": 1.5511528847688438
+            "m_prediksi_before": 1.6093173058833425,
+            "m_prediksi": 1.5575419370460393
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.5511528847688438,
+            "m_prediksi": 1.5575419370460393,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                15.511528847688439
+                15.575419370460393
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.5511528847688438,
+            "m_prediksi_before": 1.5575419370460393,
             "x_actual": 3.3000000000000003,
-            "y_actual": 4.070565955997835,
-            "y_prediksi": 5.118804519737185
+            "y_actual": 4.170988635496819,
+            "y_prediksi": 5.13988839225193
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.0482385637393499,
-            "delta_m_before": -0.31764804961798476,
+            "error": -0.9688997567551105,
+            "delta_m_before": -0.293605986895488,
             "learning_rate": 0.1,
-            "delta_m": -0.031764804961798475
+            "delta_m": -0.0293605986895488
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.5511528847688438,
-            "m_prediksi": 1.5193880798070454
+            "m_prediksi_before": 1.5575419370460393,
+            "m_prediksi": 1.5281813383564904
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.5193880798070454,
+            "m_prediksi": 1.5281813383564904,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                15.193880798070454
+                15.281813383564904
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.5193880798070454,
+            "m_prediksi_before": 1.5281813383564904,
             "x_actual": 3.4000000000000004,
-            "y_actual": 3.7221617695300884,
-            "y_prediksi": 5.165919471343955
+            "y_actual": 4.220831510633134,
+            "y_prediksi": 5.195816550412068
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.4437577018138663,
-            "delta_m_before": -0.4246346181805489,
+            "error": -0.9749850397789332,
+            "delta_m_before": -0.2867603058173333,
             "learning_rate": 0.1,
-            "delta_m": -0.04246346181805489
+            "delta_m": -0.028676030581733333
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.5193880798070454,
-            "m_prediksi": 1.4769246179889906
+            "m_prediksi_before": 1.5281813383564904,
+            "m_prediksi": 1.499505307774757
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.4769246179889906,
+            "m_prediksi": 1.499505307774757,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                14.769246179889905
+                14.99505307774757
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.4769246179889906,
+            "m_prediksi_before": 1.499505307774757,
             "x_actual": 3.5,
-            "y_actual": 3.842931951634456,
-            "y_prediksi": 5.169236162961467
+            "y_actual": 4.428030578635913,
+            "y_prediksi": 5.2482685772116495
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.3263042113270114,
-            "delta_m_before": -0.37894406037914613,
+            "error": -0.8202379985757364,
+            "delta_m_before": -0.23435371387878184,
             "learning_rate": 0.1,
-            "delta_m": -0.037894406037914614
+            "delta_m": -0.023435371387878184
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.4769246179889906,
-            "m_prediksi": 1.4390302119510758
+            "m_prediksi_before": 1.499505307774757,
+            "m_prediksi": 1.476069936386879
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.4390302119510758,
+            "m_prediksi": 1.476069936386879,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                14.390302119510759
+                14.76069936386879
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.4390302119510758,
+            "m_prediksi_before": 1.476069936386879,
             "x_actual": 3.6,
-            "y_actual": 4.195124808201835,
-            "y_prediksi": 5.180508763023873
+            "y_actual": 3.978840061614765,
+            "y_prediksi": 5.313851770992764
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.985383954822038,
-            "delta_m_before": -0.2737177652283439,
+            "error": -1.3350117093779996,
+            "delta_m_before": -0.37083658593833324,
             "learning_rate": 0.1,
-            "delta_m": -0.02737177652283439
+            "delta_m": -0.03708365859383333
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.4390302119510758,
-            "m_prediksi": 1.4116584354282415
+            "m_prediksi_before": 1.476069936386879,
+            "m_prediksi": 1.4389862777930458
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.4116584354282415,
+            "m_prediksi": 1.4389862777930458,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                14.116584354282416
+                14.389862777930457
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.4116584354282415,
+            "m_prediksi_before": 1.4389862777930458,
             "x_actual": 3.7,
-            "y_actual": 4.677356324453294,
-            "y_prediksi": 5.223136211084494
+            "y_actual": 4.507037123492762,
+            "y_prediksi": 5.32424922783427
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.5457798866312,
-            "delta_m_before": -0.14750807746789188,
+            "error": -0.8172121043415075,
+            "delta_m_before": -0.22086813630851554,
             "learning_rate": 0.1,
-            "delta_m": -0.014750807746789189
+            "delta_m": -0.022086813630851555
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.4116584354282415,
-            "m_prediksi": 1.3969076276814523
+            "m_prediksi_before": 1.4389862777930458,
+            "m_prediksi": 1.4168994641621941
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.3969076276814523,
+            "m_prediksi": 1.4168994641621941,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                13.969076276814523
+                14.168994641621941
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.3969076276814523,
+            "m_prediksi_before": 1.4168994641621941,
             "x_actual": 3.8000000000000003,
-            "y_actual": 3.8700082516270786,
-            "y_prediksi": 5.308248985189519
+            "y_actual": 4.078297831899906,
+            "y_prediksi": 5.384217963816338
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.4382407335624405,
-            "delta_m_before": -0.37848440356906327,
+            "error": -1.305920131916432,
+            "delta_m_before": -0.34366319260958733,
             "learning_rate": 0.1,
-            "delta_m": -0.03784844035690633
+            "delta_m": -0.03436631926095873
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.3969076276814523,
-            "m_prediksi": 1.359059187324546
+            "m_prediksi_before": 1.4168994641621941,
+            "m_prediksi": 1.3825331449012355
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.359059187324546,
+            "m_prediksi": 1.3825331449012355,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                13.590591873245458
+                13.825331449012355
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.359059187324546,
+            "m_prediksi_before": 1.3825331449012355,
             "x_actual": 3.9000000000000004,
-            "y_actual": 4.774826693938974,
-            "y_prediksi": 5.30033083056573
+            "y_actual": 4.642516381834396,
+            "y_prediksi": 5.391879265114818
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.5255041366267559,
-            "delta_m_before": -0.1347446504171169,
+            "error": -0.7493628832804227,
+            "delta_m_before": -0.1921443290462622,
             "learning_rate": 0.1,
-            "delta_m": -0.01347446504171169
+            "delta_m": -0.01921443290462622
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.359059187324546,
-            "m_prediksi": 1.345584722282834
+            "m_prediksi_before": 1.3825331449012355,
+            "m_prediksi": 1.3633187119966093
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.345584722282834,
+            "m_prediksi": 1.3633187119966093,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                13.455847222828341
+                13.633187119966092
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.345584722282834,
+            "m_prediksi_before": 1.3633187119966093,
             "x_actual": 4.0,
-            "y_actual": 4.085512430678466,
-            "y_prediksi": 5.382338889131336
+            "y_actual": 4.17346967305544,
+            "y_prediksi": 5.453274847986437
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.2968264584528706,
-            "delta_m_before": -0.32420661461321765,
+            "error": -1.2798051749309973,
+            "delta_m_before": -0.31995129373274933,
             "learning_rate": 0.1,
-            "delta_m": -0.03242066146132177
+            "delta_m": -0.031995129373274936
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.345584722282834,
-            "m_prediksi": 1.3131640608215123
+            "m_prediksi_before": 1.3633187119966093,
+            "m_prediksi": 1.3313235826233343
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.3131640608215123,
+            "m_prediksi": 1.3313235826233343,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                13.131640608215122
+                13.313235826233342
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.3131640608215123,
+            "m_prediksi_before": 1.3313235826233343,
             "x_actual": 4.1000000000000005,
-            "y_actual": 4.829908343949529,
-            "y_prediksi": 5.383972649368201
+            "y_actual": 4.267003193807523,
+            "y_prediksi": 5.458426688755671
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.554064305418672,
-            "delta_m_before": -0.13513763546796878,
+            "error": -1.1914234949481486,
+            "delta_m_before": -0.2905910963288167,
             "learning_rate": 0.1,
-            "delta_m": -0.013513763546796878
+            "delta_m": -0.02905910963288167
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.3131640608215123,
-            "m_prediksi": 1.2996502972747155
+            "m_prediksi_before": 1.3313235826233343,
+            "m_prediksi": 1.3022644729904527
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.2996502972747155,
+            "m_prediksi": 1.3022644729904527,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.996502972747155
+                13.022644729904528
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.2996502972747155,
+            "m_prediksi_before": 1.3022644729904527,
             "x_actual": 4.2,
-            "y_actual": 4.9618173033587185,
-            "y_prediksi": 5.458531248553805
+            "y_actual": 5.131557073344543,
+            "y_prediksi": 5.469510786559901
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.4967139451950864,
-            "delta_m_before": -0.11826522504644914,
+            "error": -0.3379537132153585,
+            "delta_m_before": -0.0804651698131806,
             "learning_rate": 0.1,
-            "delta_m": -0.011826522504644915
+            "delta_m": -0.00804651698131806
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.2996502972747155,
-            "m_prediksi": 1.2878237747700705
+            "m_prediksi_before": 1.3022644729904527,
+            "m_prediksi": 1.2942179560091347
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.2878237747700705,
+            "m_prediksi": 1.2942179560091347,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.878237747700705
+                12.942179560091347
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.2878237747700705,
+            "m_prediksi_before": 1.2942179560091347,
             "x_actual": 4.3,
-            "y_actual": 5.267153378765336,
-            "y_prediksi": 5.5376422315113025
+            "y_actual": 4.523021824844193,
+            "y_prediksi": 5.565137210839279
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.27048885274596657,
-            "delta_m_before": -0.06290438435952711,
+            "error": -1.0421153859950865,
+            "delta_m_before": -0.24235241534769453,
             "learning_rate": 0.1,
-            "delta_m": -0.006290438435952711
+            "delta_m": -0.024235241534769456
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.2878237747700705,
-            "m_prediksi": 1.2815333363341177
+            "m_prediksi_before": 1.2942179560091347,
+            "m_prediksi": 1.2699827144743652
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.2815333363341177,
+            "m_prediksi": 1.2699827144743652,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.815333363341177
+                12.69982714474365
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.2815333363341177,
+            "m_prediksi_before": 1.2699827144743652,
             "x_actual": 4.4,
-            "y_actual": 4.622736318172743,
-            "y_prediksi": 5.638746679870119
+            "y_actual": 5.374754978833277,
+            "y_prediksi": 5.5879239436872075
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -1.0160103616973757,
-            "delta_m_before": -0.23091144584031265,
+            "error": -0.21316896485393055,
+            "delta_m_before": -0.04844749201225694,
             "learning_rate": 0.1,
-            "delta_m": -0.023091144584031265
+            "delta_m": -0.004844749201225695
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.2815333363341177,
-            "m_prediksi": 1.2584421917500865
+            "m_prediksi_before": 1.2699827144743652,
+            "m_prediksi": 1.2651379652731394
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.2584421917500865,
+            "m_prediksi": 1.2651379652731394,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.584421917500865
+                12.651379652731393
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.2584421917500865,
+            "m_prediksi_before": 1.2651379652731394,
             "x_actual": 4.5,
-            "y_actual": 5.367942585821548,
-            "y_prediksi": 5.662989862875389
+            "y_actual": 4.536902383795687,
+            "y_prediksi": 5.693120843729127
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.2950472770538415,
-            "delta_m_before": -0.06556606156752033,
+            "error": -1.1562184599334397,
+            "delta_m_before": -0.25693743554076437,
             "learning_rate": 0.1,
-            "delta_m": -0.006556606156752034
+            "delta_m": -0.02569374355407644
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.2584421917500865,
-            "m_prediksi": 1.2518855855933344
+            "m_prediksi_before": 1.2651379652731394,
+            "m_prediksi": 1.2394442217190629
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.2518855855933344,
+            "m_prediksi": 1.2394442217190629,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.518855855933344
+                12.39444221719063
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.2518855855933344,
+            "m_prediksi_before": 1.2394442217190629,
             "x_actual": 4.6000000000000005,
-            "y_actual": 4.783447655553216,
-            "y_prediksi": 5.758673693729339
+            "y_actual": 5.544695985188324,
+            "y_prediksi": 5.70144341990769
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.9752260381761229,
-            "delta_m_before": -0.21200566047307015,
+            "error": -0.15674743471936647,
+            "delta_m_before": -0.0340755292868188,
             "learning_rate": 0.1,
-            "delta_m": -0.021200566047307016
+            "delta_m": -0.00340755292868188
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.2518855855933344,
-            "m_prediksi": 1.2306850195460275
+            "m_prediksi_before": 1.2394442217190629,
+            "m_prediksi": 1.236036668790381
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.2306850195460275,
+            "m_prediksi": 1.236036668790381,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.306850195460274
+                12.36036668790381
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.2306850195460275,
+            "m_prediksi_before": 1.236036668790381,
             "x_actual": 4.7,
-            "y_actual": 5.443791114275501,
-            "y_prediksi": 5.7842195918663295
+            "y_actual": 4.977138429775578,
+            "y_prediksi": 5.809372343314791
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.3404284775908284,
-            "delta_m_before": -0.072431590976772,
+            "error": -0.8322339135392127,
+            "delta_m_before": -0.17707104543387503,
             "learning_rate": 0.1,
-            "delta_m": -0.0072431590976772
+            "delta_m": -0.017707104543387503
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.2306850195460275,
-            "m_prediksi": 1.2234418604483503
+            "m_prediksi_before": 1.236036668790381,
+            "m_prediksi": 1.2183295642469936
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.2234418604483503,
+            "m_prediksi": 1.2183295642469936,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.234418604483503
+                12.183295642469936
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.2234418604483503,
+            "m_prediksi_before": 1.2183295642469936,
             "x_actual": 4.800000000000001,
-            "y_actual": 5.110970851994245,
-            "y_prediksi": 5.872520930152082
+            "y_actual": 5.130149779778315,
+            "y_prediksi": 5.84798190838557
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.7615500781578373,
-            "delta_m_before": -0.15865626628288274,
+            "error": -0.7178321286072551,
+            "delta_m_before": -0.14954836012651146,
             "learning_rate": 0.1,
-            "delta_m": -0.015865626628288273
+            "delta_m": -0.014954836012651147
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.2234418604483503,
-            "m_prediksi": 1.2075762338200622
+            "m_prediksi_before": 1.2183295642469936,
+            "m_prediksi": 1.2033747282343423
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.2075762338200622,
+            "m_prediksi": 1.2033747282343423,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.075762338200622
+                12.033747282343423
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.2075762338200622,
+            "m_prediksi_before": 1.2033747282343423,
             "x_actual": 4.9,
-            "y_actual": 5.578238405949087,
-            "y_prediksi": 5.917123545718305
+            "y_actual": 5.116034869053465,
+            "y_prediksi": 5.896536168348278
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.33888513976921875,
-            "delta_m_before": -0.069160232605963,
+            "error": -0.780501299294813,
+            "delta_m_before": -0.15928597944792103,
             "learning_rate": 0.1,
-            "delta_m": -0.006916023260596301
+            "delta_m": -0.015928597944792105
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.2075762338200622,
-            "m_prediksi": 1.200660210559466
+            "m_prediksi_before": 1.2033747282343423,
+            "m_prediksi": 1.1874461302895503
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.200660210559466,
+            "m_prediksi": 1.1874461302895503,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                12.00660210559466
+                11.874461302895503
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.200660210559466,
+            "m_prediksi_before": 1.1874461302895503,
             "x_actual": 5.0,
-            "y_actual": 5.4413321453183645,
-            "y_prediksi": 6.00330105279733
+            "y_actual": 5.1005965391344334,
+            "y_prediksi": 5.937230651447751
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.5619689074789651,
-            "delta_m_before": -0.11239378149579302,
+            "error": -0.8366341123133179,
+            "delta_m_before": -0.16732682246266356,
             "learning_rate": 0.1,
-            "delta_m": -0.011239378149579302
+            "delta_m": -0.016732682246266357
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.200660210559466,
-            "m_prediksi": 1.1894208324098867
+            "m_prediksi_before": 1.1874461302895503,
+            "m_prediksi": 1.170713448043284
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1894208324098867,
+            "m_prediksi": 1.170713448043284,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.894208324098868
+                11.707134480432838
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1894208324098867,
+            "m_prediksi_before": 1.170713448043284,
             "x_actual": 5.1000000000000005,
-            "y_actual": 5.192611670778463,
-            "y_prediksi": 6.066046245290423
+            "y_actual": 5.734627322843221,
+            "y_prediksi": 5.970638585020748
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.8734345745119594,
-            "delta_m_before": -0.17126168127685476,
+            "error": -0.23601126217752721,
+            "delta_m_before": -0.04627671807402494,
             "learning_rate": 0.1,
-            "delta_m": -0.017126168127685477
+            "delta_m": -0.0046276718074024946
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1894208324098867,
-            "m_prediksi": 1.1722946642822012
+            "m_prediksi_before": 1.170713448043284,
+            "m_prediksi": 1.1660857762358814
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1722946642822012,
+            "m_prediksi": 1.1660857762358814,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.722946642822013
+                11.660857762358814
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1722946642822012,
+            "m_prediksi_before": 1.1660857762358814,
             "x_actual": 5.2,
-            "y_actual": 5.702006054688585,
-            "y_prediksi": 6.095932254267447
+            "y_actual": 6.065680924175358,
+            "y_prediksi": 6.063646036426584
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.39392619957886144,
-            "delta_m_before": -0.07575503838055027,
+            "error": 0.002034887748774139,
+            "delta_m_before": 0.0003913245670719498,
             "learning_rate": 0.1,
-            "delta_m": -0.007575503838055027
+            "delta_m": 3.913245670719498e-05
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1722946642822012,
-            "m_prediksi": 1.1647191604441463
+            "m_prediksi_before": 1.1660857762358814,
+            "m_prediksi": 1.1661249086925887
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1647191604441463,
+            "m_prediksi": 1.1661249086925887,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.647191604441463
+                11.661249086925887
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1647191604441463,
+            "m_prediksi_before": 1.1661249086925887,
             "x_actual": 5.300000000000001,
-            "y_actual": 5.811846421211163,
-            "y_prediksi": 6.1730115503539755
+            "y_actual": 5.573382241220682,
+            "y_prediksi": 6.180462016070721
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.3611651291428126,
-            "delta_m_before": -0.06814436398920992,
+            "error": -0.607079774850039,
+            "delta_m_before": -0.11454335374529036,
             "learning_rate": 0.1,
-            "delta_m": -0.006814436398920993
+            "delta_m": -0.011454335374529036
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1647191604441463,
-            "m_prediksi": 1.1579047240452252
+            "m_prediksi_before": 1.1661249086925887,
+            "m_prediksi": 1.1546705733180596
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1579047240452252,
+            "m_prediksi": 1.1546705733180596,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.579047240452251
+                11.546705733180595
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1579047240452252,
+            "m_prediksi_before": 1.1546705733180596,
             "x_actual": 5.4,
-            "y_actual": 6.108569454413971,
-            "y_prediksi": 6.252685509844216
+            "y_actual": 5.90657983367048,
+            "y_prediksi": 6.235221095917522
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.14411605543024564,
-            "delta_m_before": -0.02668815841300845,
+            "error": -0.32864126224704204,
+            "delta_m_before": -0.060859493008711484,
             "learning_rate": 0.1,
-            "delta_m": -0.002668815841300845
+            "delta_m": -0.0060859493008711485
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1579047240452252,
-            "m_prediksi": 1.1552359082039243
+            "m_prediksi_before": 1.1546705733180596,
+            "m_prediksi": 1.1485846240171884
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1552359082039243,
+            "m_prediksi": 1.1485846240171884,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.552359082039242
+                11.485846240171885
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1552359082039243,
+            "m_prediksi_before": 1.1485846240171884,
             "x_actual": 5.5,
-            "y_actual": 5.659843099254406,
-            "y_prediksi": 6.353797495121584
+            "y_actual": 5.738547980372563,
+            "y_prediksi": 6.317215432094536
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.6939543958671779,
-            "delta_m_before": -0.12617352652130506,
+            "error": -0.578667451721973,
+            "delta_m_before": -0.10521226394944963,
             "learning_rate": 0.1,
-            "delta_m": -0.012617352652130508
+            "delta_m": -0.010521226394944964
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1552359082039243,
-            "m_prediksi": 1.1426185555517938
+            "m_prediksi_before": 1.1485846240171884,
+            "m_prediksi": 1.1380633976222434
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1426185555517938,
+            "m_prediksi": 1.1380633976222434,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.426185555517938
+                11.380633976222434
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1426185555517938,
+            "m_prediksi_before": 1.1380633976222434,
             "x_actual": 5.6000000000000005,
-            "y_actual": 6.1969043846737595,
-            "y_prediksi": 6.398663911090046
+            "y_actual": 6.050124375974229,
+            "y_prediksi": 6.373155026684564
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.20175952641628658,
-            "delta_m_before": -0.036028486860051175,
+            "error": -0.32303065071033465,
+            "delta_m_before": -0.05768404476970261,
             "learning_rate": 0.1,
-            "delta_m": -0.003602848686005118
+            "delta_m": -0.0057684044769702614
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1426185555517938,
-            "m_prediksi": 1.1390157068657887
+            "m_prediksi_before": 1.1380633976222434,
+            "m_prediksi": 1.132294993145273
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1390157068657887,
+            "m_prediksi": 1.132294993145273,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.390157068657887
+                11.32294993145273
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1390157068657887,
+            "m_prediksi_before": 1.132294993145273,
             "x_actual": 5.7,
-            "y_actual": 6.454586753364807,
-            "y_prediksi": 6.492389529134996
+            "y_actual": 6.675960144456686,
+            "y_prediksi": 6.454081460928056
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.037802775770188646,
-            "delta_m_before": -0.006632065924594499,
+            "error": 0.2218786835286295,
+            "delta_m_before": 0.03892608482958412,
             "learning_rate": 0.1,
-            "delta_m": -0.0006632065924594499
+            "delta_m": 0.0038926084829584125
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1390157068657887,
-            "m_prediksi": 1.1383525002733292
+            "m_prediksi_before": 1.132294993145273,
+            "m_prediksi": 1.1361876016282315
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1383525002733292,
+            "m_prediksi": 1.1361876016282315,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.383525002733293
+                11.361876016282315
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1383525002733292,
+            "m_prediksi_before": 1.1361876016282315,
             "x_actual": 5.800000000000001,
-            "y_actual": 6.687076531538565,
-            "y_prediksi": 6.60244450158531
+            "y_actual": 6.438466882725557,
+            "y_prediksi": 6.589888089443743
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.08463202995325503,
-            "delta_m_before": 0.014591729302285347,
+            "error": -0.1514212067181866,
+            "delta_m_before": -0.026107104606583893,
             "learning_rate": 0.1,
-            "delta_m": 0.0014591729302285347
+            "delta_m": -0.0026107104606583895
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1383525002733292,
-            "m_prediksi": 1.1398116732035577
+            "m_prediksi_before": 1.1361876016282315,
+            "m_prediksi": 1.1335768911675732
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1398116732035577,
+            "m_prediksi": 1.1335768911675732,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.398116732035577
+                11.335768911675732
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1398116732035577,
+            "m_prediksi_before": 1.1335768911675732,
             "x_actual": 5.9,
-            "y_actual": 6.367879722546886,
-            "y_prediksi": 6.7248888719009905
+            "y_actual": 6.7613255601141296,
+            "y_prediksi": 6.688103657888682
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.35700914935410477,
-            "delta_m_before": -0.06051002531425504,
+            "error": 0.07322190222544744,
+            "delta_m_before": 0.01241049190261821,
             "learning_rate": 0.1,
-            "delta_m": -0.006051002531425504
+            "delta_m": 0.0012410491902618212
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1398116732035577,
-            "m_prediksi": 1.1337606706721322
+            "m_prediksi_before": 1.1335768911675732,
+            "m_prediksi": 1.1348179403578351
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1337606706721322,
+            "m_prediksi": 1.1348179403578351,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.33760670672132
+                11.348179403578351
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1337606706721322,
+            "m_prediksi_before": 1.1348179403578351,
             "x_actual": 6.0,
-            "y_actual": 6.613800612466202,
-            "y_prediksi": 6.802564024032793
+            "y_actual": 6.003172631348161,
+            "y_prediksi": 6.808907642147011
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.18876341156659127,
-            "delta_m_before": -0.03146056859443188,
+            "error": -0.8057350107988501,
+            "delta_m_before": -0.134289168466475,
             "learning_rate": 0.1,
-            "delta_m": -0.003146056859443188
+            "delta_m": -0.013428916846647501
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1337606706721322,
-            "m_prediksi": 1.130614613812689
+            "m_prediksi_before": 1.1348179403578351,
+            "m_prediksi": 1.1213890235111876
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.130614613812689,
+            "m_prediksi": 1.1213890235111876,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.30614613812689
+                11.213890235111876
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.130614613812689,
+            "m_prediksi_before": 1.1213890235111876,
             "x_actual": 6.1000000000000005,
-            "y_actual": 6.508547032781459,
-            "y_prediksi": 6.896749144257403
+            "y_actual": 6.136330818885365,
+            "y_prediksi": 6.840473043418245
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.38820211147594375,
-            "delta_m_before": -0.06363969040589242,
+            "error": -0.7041422245328803,
+            "delta_m_before": -0.11543315156276726,
             "learning_rate": 0.1,
-            "delta_m": -0.006363969040589242
+            "delta_m": -0.011543315156276726
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.130614613812689,
-            "m_prediksi": 1.1242506447720997
+            "m_prediksi_before": 1.1213890235111876,
+            "m_prediksi": 1.109845708354911
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1242506447720997,
+            "m_prediksi": 1.109845708354911,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.242506447720997
+                11.098457083549109
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1242506447720997,
+            "m_prediksi_before": 1.109845708354911,
             "x_actual": 6.2,
-            "y_actual": 6.353895201495833,
-            "y_prediksi": 6.970353997587019
+            "y_actual": 6.263253212286266,
+            "y_prediksi": 6.881043391800448
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.6164587960911856,
-            "delta_m_before": -0.09942883807922348,
+            "error": -0.6177901795141825,
+            "delta_m_before": -0.09964357734099717,
             "learning_rate": 0.1,
-            "delta_m": -0.009942883807922348
+            "delta_m": -0.009964357734099719
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1242506447720997,
-            "m_prediksi": 1.1143077609641774
+            "m_prediksi_before": 1.109845708354911,
+            "m_prediksi": 1.0998813506208112
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1143077609641774,
+            "m_prediksi": 1.0998813506208112,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.143077609641773
+                10.998813506208112
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1143077609641774,
+            "m_prediksi_before": 1.0998813506208112,
             "x_actual": 6.300000000000001,
-            "y_actual": 6.729892511000739,
-            "y_prediksi": 7.020138894074318
+            "y_actual": 6.8171598394971,
+            "y_prediksi": 6.929252508911111
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.29024638307357886,
-            "delta_m_before": -0.046070854456123626,
+            "error": -0.11209266941401186,
+            "delta_m_before": -0.01779248720857331,
             "learning_rate": 0.1,
-            "delta_m": -0.0046070854456123625
+            "delta_m": -0.001779248720857331
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1143077609641774,
-            "m_prediksi": 1.109700675518565
+            "m_prediksi_before": 1.0998813506208112,
+            "m_prediksi": 1.0981021018999537
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.109700675518565,
+            "m_prediksi": 1.0981021018999537,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.09700675518565
+                10.981021018999538
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.109700675518565,
+            "m_prediksi_before": 1.0981021018999537,
             "x_actual": 6.4,
-            "y_actual": 6.908910700330198,
-            "y_prediksi": 7.102084323318817
+            "y_actual": 6.532804274438561,
+            "y_prediksi": 7.027853452159704
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.19317362298861873,
-            "delta_m_before": -0.030183378591971677,
+            "error": -0.49504917772114254,
+            "delta_m_before": -0.07735143401892852,
             "learning_rate": 0.1,
-            "delta_m": -0.0030183378591971677
+            "delta_m": -0.007735143401892852
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.109700675518565,
-            "m_prediksi": 1.1066823376593677
+            "m_prediksi_before": 1.0981021018999537,
+            "m_prediksi": 1.0903669584980609
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1066823376593677,
+            "m_prediksi": 1.0903669584980609,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.066823376593678
+                10.903669584980609
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1066823376593677,
+            "m_prediksi_before": 1.0903669584980609,
             "x_actual": 6.5,
-            "y_actual": 6.688190999041592,
-            "y_prediksi": 7.1934351947858906
+            "y_actual": 6.569552316637929,
+            "y_prediksi": 7.087385230237396
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.5052441957442984,
-            "delta_m_before": -0.07772987626835359,
+            "error": -0.5178329135994666,
+            "delta_m_before": -0.07966660209222563,
             "learning_rate": 0.1,
-            "delta_m": -0.00777298762683536
+            "delta_m": -0.007966660209222563
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1066823376593677,
-            "m_prediksi": 1.0989093500325324
+            "m_prediksi_before": 1.0903669584980609,
+            "m_prediksi": 1.0824002982888383
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0989093500325324,
+            "m_prediksi": 1.0824002982888383,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.989093500325325
+                10.824002982888384
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0989093500325324,
+            "m_prediksi_before": 1.0824002982888383,
             "x_actual": 6.6000000000000005,
-            "y_actual": 6.613613124420281,
-            "y_prediksi": 7.252801710214714
+            "y_actual": 6.949461708021699,
+            "y_prediksi": 7.143841968706334
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.6391885857944333,
-            "delta_m_before": -0.09684675542339898,
+            "error": -0.19438026068463454,
+            "delta_m_before": -0.02945155464918705,
             "learning_rate": 0.1,
-            "delta_m": -0.009684675542339899
+            "delta_m": -0.002945155464918705
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0989093500325324,
-            "m_prediksi": 1.0892246744901926
+            "m_prediksi_before": 1.0824002982888383,
+            "m_prediksi": 1.0794551428239196
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0892246744901926,
+            "m_prediksi": 1.0794551428239196,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.892246744901925
+                10.794551428239195
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0892246744901926,
+            "m_prediksi_before": 1.0794551428239196,
             "x_actual": 6.7,
-            "y_actual": 7.632198591680601,
-            "y_prediksi": 7.29780531908429
+            "y_actual": 7.105647940488258,
+            "y_prediksi": 7.232349456920262
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.33439327259631124,
-            "delta_m_before": 0.04990944367109123,
+            "error": -0.12670151643200356,
+            "delta_m_before": -0.018910674094328887,
             "learning_rate": 0.1,
-            "delta_m": 0.004990944367109123
+            "delta_m": -0.0018910674094328888
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0892246744901926,
-            "m_prediksi": 1.0942156188573018
+            "m_prediksi_before": 1.0794551428239196,
+            "m_prediksi": 1.0775640754144868
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0942156188573018,
+            "m_prediksi": 1.0775640754144868,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.942156188573017
+                10.775640754144868
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0942156188573018,
+            "m_prediksi_before": 1.0775640754144868,
             "x_actual": 6.800000000000001,
-            "y_actual": 7.714491281139033,
-            "y_prediksi": 7.440666208229653
+            "y_actual": 7.755268674045778,
+            "y_prediksi": 7.327435712818511
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.2738250729093794,
-            "delta_m_before": 0.04026839307490873,
+            "error": 0.4278329612272671,
+            "delta_m_before": 0.06291661194518633,
             "learning_rate": 0.1,
-            "delta_m": 0.004026839307490873
+            "delta_m": 0.0062916611945186334
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0942156188573018,
-            "m_prediksi": 1.0982424581647927
+            "m_prediksi_before": 1.0775640754144868,
+            "m_prediksi": 1.0838557366090056
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0982424581647927,
+            "m_prediksi": 1.0838557366090056,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.982424581647926
+                10.838557366090056
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0982424581647927,
+            "m_prediksi_before": 1.0838557366090056,
             "x_actual": 6.9,
-            "y_actual": 7.634128389529612,
-            "y_prediksi": 7.57787296133707
+            "y_actual": 7.8899554284885305,
+            "y_prediksi": 7.478604582602139
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.056255428192542034,
-            "delta_m_before": 0.008152960607614787,
+            "error": 0.4113508458863917,
+            "delta_m_before": 0.059616064621216186,
             "learning_rate": 0.1,
-            "delta_m": 0.0008152960607614788
+            "delta_m": 0.005961606462121619
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0982424581647927,
-            "m_prediksi": 1.0990577542255542
+            "m_prediksi_before": 1.0838557366090056,
+            "m_prediksi": 1.089817343071127
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0990577542255542,
+            "m_prediksi": 1.089817343071127,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.990577542255542
+                10.898173430711271
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0990577542255542,
+            "m_prediksi_before": 1.089817343071127,
             "x_actual": 7.0,
-            "y_actual": 7.468182659970329,
-            "y_prediksi": 7.693404279578879
+            "y_actual": 7.400198868582127,
+            "y_prediksi": 7.62872140149789
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.22522161960855058,
-            "delta_m_before": -0.0321745170869358,
+            "error": -0.22852253291576297,
+            "delta_m_before": -0.03264607613082328,
             "learning_rate": 0.1,
-            "delta_m": -0.00321745170869358
+            "delta_m": -0.003264607613082328
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0990577542255542,
-            "m_prediksi": 1.0958403025168606
+            "m_prediksi_before": 1.089817343071127,
+            "m_prediksi": 1.0865527354580449
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0958403025168606,
+            "m_prediksi": 1.0865527354580449,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.958403025168606
+                10.865527354580449
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0958403025168606,
+            "m_prediksi_before": 1.0865527354580449,
             "x_actual": 7.1000000000000005,
-            "y_actual": 8.08359722382539,
-            "y_prediksi": 7.780466147869711
+            "y_actual": 7.994337089302139,
+            "y_prediksi": 7.714524421752119
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.3031310759556787,
-            "delta_m_before": 0.04269451774023643,
+            "error": 0.27981266755001943,
+            "delta_m_before": 0.03941023486619992,
             "learning_rate": 0.1,
-            "delta_m": 0.004269451774023643
+            "delta_m": 0.003941023486619992
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0958403025168606,
-            "m_prediksi": 1.1001097542908842
+            "m_prediksi_before": 1.0865527354580449,
+            "m_prediksi": 1.0904937589446648
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.1001097542908842,
+            "m_prediksi": 1.0904937589446648,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                11.001097542908841
+                10.904937589446648
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.1001097542908842,
+            "m_prediksi_before": 1.0904937589446648,
             "x_actual": 7.2,
-            "y_actual": 7.683087769128223,
-            "y_prediksi": 7.920790230894366
+            "y_actual": 8.063315184817332,
+            "y_prediksi": 7.851555064401587
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.23770246176614318,
-            "delta_m_before": -0.033014230800853216,
+            "error": 0.21176012041574577,
+            "delta_m_before": 0.029411127835520245,
             "learning_rate": 0.1,
-            "delta_m": -0.0033014230800853216
+            "delta_m": 0.0029411127835520245
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.1001097542908842,
-            "m_prediksi": 1.0968083312107988
+            "m_prediksi_before": 1.0904937589446648,
+            "m_prediksi": 1.093434871728217
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0968083312107988,
+            "m_prediksi": 1.093434871728217,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.968083312107987
+                10.93434871728217
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0968083312107988,
+            "m_prediksi_before": 1.093434871728217,
             "x_actual": 7.300000000000001,
-            "y_actual": 7.384992863729369,
-            "y_prediksi": 8.006700817838832
+            "y_actual": 8.179817651998821,
+            "y_prediksi": 7.982074563615985
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.6217079541094623,
-            "delta_m_before": -0.08516547316567977,
+            "error": 0.19774308838283616,
+            "delta_m_before": 0.02708809429901865,
             "learning_rate": 0.1,
-            "delta_m": -0.008516547316567978
+            "delta_m": 0.0027088094299018654
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0968083312107988,
-            "m_prediksi": 1.0882917838942308
+            "m_prediksi_before": 1.093434871728217,
+            "m_prediksi": 1.0961436811581189
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0882917838942308,
+            "m_prediksi": 1.0961436811581189,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.882917838942308
+                10.961436811581189
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0882917838942308,
+            "m_prediksi_before": 1.0961436811581189,
             "x_actual": 7.4,
-            "y_actual": 7.7744640726828,
-            "y_prediksi": 8.053359200817308
+            "y_actual": 8.24885958469579,
+            "y_prediksi": 8.11146324057008
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.2788951281345078,
-            "delta_m_before": -0.037688530828987536,
+            "error": 0.13739634412571,
+            "delta_m_before": 0.01856707353050135,
             "learning_rate": 0.1,
-            "delta_m": -0.003768853082898754
+            "delta_m": 0.0018567073530501351
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0882917838942308,
-            "m_prediksi": 1.084522930811332
+            "m_prediksi_before": 1.0961436811581189,
+            "m_prediksi": 1.098000388511169
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.084522930811332,
+            "m_prediksi": 1.098000388511169,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.84522930811332
+                10.98000388511169
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.084522930811332,
+            "m_prediksi_before": 1.098000388511169,
             "x_actual": 7.5,
-            "y_actual": 8.319810568808846,
-            "y_prediksi": 8.13392198108499
+            "y_actual": 7.741011273817737,
+            "y_prediksi": 8.235002913833767
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.18588858772385564,
-            "delta_m_before": 0.024785145029847418,
+            "error": -0.4939916400160307,
+            "delta_m_before": -0.06586555200213742,
             "learning_rate": 0.1,
-            "delta_m": 0.0024785145029847418
+            "delta_m": -0.006586555200213742
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.084522930811332,
-            "m_prediksi": 1.0870014453143166
+            "m_prediksi_before": 1.098000388511169,
+            "m_prediksi": 1.0914138333109553
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0870014453143166,
+            "m_prediksi": 1.0914138333109553,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.870014453143167
+                10.914138333109554
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0870014453143166,
+            "m_prediksi_before": 1.0914138333109553,
             "x_actual": 7.6000000000000005,
-            "y_actual": 7.683028369158905,
-            "y_prediksi": 8.261210984388807
+            "y_actual": 7.674931151124382,
+            "y_prediksi": 8.29474513316326
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.5781826152299017,
-            "delta_m_before": -0.07607665989867127,
+            "error": -0.6198139820388784,
+            "delta_m_before": -0.08155447132090504,
             "learning_rate": 0.1,
-            "delta_m": -0.007607665989867127
+            "delta_m": -0.008155447132090505
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0870014453143166,
-            "m_prediksi": 1.0793937793244495
+            "m_prediksi_before": 1.0914138333109553,
+            "m_prediksi": 1.0832583861788647
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0793937793244495,
+            "m_prediksi": 1.0832583861788647,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.793937793244496
+                10.832583861788647
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0793937793244495,
+            "m_prediksi_before": 1.0832583861788647,
             "x_actual": 7.7,
-            "y_actual": 8.16109430487766,
-            "y_prediksi": 8.31133210079826
+            "y_actual": 7.979345227014985,
+            "y_prediksi": 8.341089573577259
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.15023779592060116,
-            "delta_m_before": -0.01951140206761054,
+            "error": -0.36174434656227383,
+            "delta_m_before": -0.04697978526782777,
             "learning_rate": 0.1,
-            "delta_m": -0.001951140206761054
+            "delta_m": -0.004697978526782777
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0793937793244495,
-            "m_prediksi": 1.0774426391176883
+            "m_prediksi_before": 1.0832583861788647,
+            "m_prediksi": 1.0785604076520818
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0774426391176883,
+            "m_prediksi": 1.0785604076520818,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.774426391176883
+                10.78560407652082
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0774426391176883,
+            "m_prediksi_before": 1.0785604076520818,
             "x_actual": 7.800000000000001,
-            "y_actual": 8.248934623570896,
-            "y_prediksi": 8.40405258511797
+            "y_actual": 8.5329632411038,
+            "y_prediksi": 8.412771179686239
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.1551179615470737,
-            "delta_m_before": -0.019886918147060728,
+            "error": 0.120192061417562,
+            "delta_m_before": 0.015409238643277179,
             "learning_rate": 0.1,
-            "delta_m": -0.001988691814706073
+            "delta_m": 0.001540923864327718
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0774426391176883,
-            "m_prediksi": 1.0754539473029823
+            "m_prediksi_before": 1.0785604076520818,
+            "m_prediksi": 1.0801013315164096
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0754539473029823,
+            "m_prediksi": 1.0801013315164096,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.754539473029823
+                10.801013315164097
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0754539473029823,
+            "m_prediksi_before": 1.0801013315164096,
             "x_actual": 7.9,
-            "y_actual": 8.116464587686115,
-            "y_prediksi": 8.49608618369356
+            "y_actual": 7.981751900699312,
+            "y_prediksi": 8.532800518979636
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.3796215960074445,
-            "delta_m_before": -0.04805336658322082,
+            "error": -0.5510486182803245,
+            "delta_m_before": -0.06975298965573727,
             "learning_rate": 0.1,
-            "delta_m": -0.004805336658322082
+            "delta_m": -0.006975298965573727
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0754539473029823,
-            "m_prediksi": 1.0706486106446602
+            "m_prediksi_before": 1.0801013315164096,
+            "m_prediksi": 1.0731260325508358
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0706486106446602,
+            "m_prediksi": 1.0731260325508358,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.706486106446603
+                10.731260325508359
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0706486106446602,
+            "m_prediksi_before": 1.0731260325508358,
             "x_actual": 8.0,
-            "y_actual": 8.889475843142625,
-            "y_prediksi": 8.565188885157282
+            "y_actual": 8.190629896349586,
+            "y_prediksi": 8.585008260406687
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.32428695798534335,
-            "delta_m_before": 0.04053586974816792,
+            "error": -0.3943783640571006,
+            "delta_m_before": -0.04929729550713757,
             "learning_rate": 0.1,
-            "delta_m": 0.004053586974816792
+            "delta_m": -0.0049297295507137575
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0706486106446602,
-            "m_prediksi": 1.074702197619477
+            "m_prediksi_before": 1.0731260325508358,
+            "m_prediksi": 1.068196303000122
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.074702197619477,
+            "m_prediksi": 1.068196303000122,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.74702197619477
+                10.68196303000122
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.074702197619477,
+            "m_prediksi_before": 1.068196303000122,
             "x_actual": 8.1,
-            "y_actual": 8.774798868781275,
-            "y_prediksi": 8.705087800717763
+            "y_actual": 8.449256870786504,
+            "y_prediksi": 8.652390054300987
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.06971106806351202,
-            "delta_m_before": 0.008606304699199015,
+            "error": -0.20313318351448295,
+            "delta_m_before": -0.025078170804257154,
             "learning_rate": 0.1,
-            "delta_m": 0.0008606304699199015
+            "delta_m": -0.0025078170804257154
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.074702197619477,
-            "m_prediksi": 1.075562828089397
+            "m_prediksi_before": 1.068196303000122,
+            "m_prediksi": 1.0656884859196962
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.075562828089397,
+            "m_prediksi": 1.0656884859196962,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.75562828089397
+                10.656884859196962
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.075562828089397,
+            "m_prediksi_before": 1.0656884859196962,
             "x_actual": 8.200000000000001,
-            "y_actual": 9.099016611319641,
-            "y_prediksi": 8.819615190333057
+            "y_actual": 9.025389480555082,
+            "y_prediksi": 8.73864558454151
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.27940142098658427,
-            "delta_m_before": 0.03407334402275417,
+            "error": 0.2867438960135722,
+            "delta_m_before": 0.03496876780653319,
             "learning_rate": 0.1,
-            "delta_m": 0.0034073344022754175
+            "delta_m": 0.0034968767806533192
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.075562828089397,
-            "m_prediksi": 1.0789701624916723
+            "m_prediksi_before": 1.0656884859196962,
+            "m_prediksi": 1.0691853627003496
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0789701624916723,
+            "m_prediksi": 1.0691853627003496,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.789701624916724
+                10.691853627003496
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0789701624916723,
+            "m_prediksi_before": 1.0691853627003496,
             "x_actual": 8.3,
-            "y_actual": 9.187865078121709,
-            "y_prediksi": 8.95545234868088
+            "y_actual": 8.693085556936566,
+            "y_prediksi": 8.874238510412903
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.2324127294408278,
-            "delta_m_before": 0.028001533667569613,
+            "error": -0.18115295347633698,
+            "delta_m_before": -0.0218256570453418,
             "learning_rate": 0.1,
-            "delta_m": 0.0028001533667569613
+            "delta_m": -0.00218256570453418
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0789701624916723,
-            "m_prediksi": 1.0817703158584293
+            "m_prediksi_before": 1.0691853627003496,
+            "m_prediksi": 1.0670027969958154
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0817703158584293,
+            "m_prediksi": 1.0670027969958154,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.817703158584294
+                10.670027969958154
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0817703158584293,
+            "m_prediksi_before": 1.0670027969958154,
             "x_actual": 8.4,
-            "y_actual": 9.263769925369292,
-            "y_prediksi": 9.086870653210807
+            "y_actual": 8.537433265161624,
+            "y_prediksi": 8.96282349476485
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.17689927215848478,
-            "delta_m_before": 0.021059437161724377,
+            "error": -0.4253902296032255,
+            "delta_m_before": -0.050641694000383985,
             "learning_rate": 0.1,
-            "delta_m": 0.0021059437161724376
+            "delta_m": -0.0050641694000383985
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0817703158584293,
-            "m_prediksi": 1.0838762595746017
+            "m_prediksi_before": 1.0670027969958154,
+            "m_prediksi": 1.061938627595777
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0838762595746017,
+            "m_prediksi": 1.061938627595777,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.838762595746017
+                10.619386275957769
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0838762595746017,
+            "m_prediksi_before": 1.061938627595777,
             "x_actual": 8.5,
-            "y_actual": 8.555803600722527,
-            "y_prediksi": 9.212948206384114
+            "y_actual": 9.279197133155334,
+            "y_prediksi": 9.026478334564104
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.6571446056615873,
-            "delta_m_before": -0.0773111300778338,
+            "error": 0.25271879859123025,
+            "delta_m_before": 0.02973162336367415,
             "learning_rate": 0.1,
-            "delta_m": -0.00773111300778338
+            "delta_m": 0.002973162336367415
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0838762595746017,
-            "m_prediksi": 1.0761451465668184
+            "m_prediksi_before": 1.061938627595777,
+            "m_prediksi": 1.0649117899321443
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0761451465668184,
+            "m_prediksi": 1.0649117899321443,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.761451465668184
+                10.649117899321443
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0761451465668184,
+            "m_prediksi_before": 1.0649117899321443,
             "x_actual": 8.6,
-            "y_actual": 9.153019830085777,
-            "y_prediksi": 9.254848260474638
+            "y_actual": 9.386460661518338,
+            "y_prediksi": 9.158241393416441
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.10182843038886169,
-            "delta_m_before": -0.011840515161495545,
+            "error": 0.2282192681018973,
+            "delta_m_before": 0.026537124197895036,
             "learning_rate": 0.1,
-            "delta_m": -0.0011840515161495547
+            "delta_m": 0.002653712419789504
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0761451465668184,
-            "m_prediksi": 1.0749610950506687
+            "m_prediksi_before": 1.0649117899321443,
+            "m_prediksi": 1.0675655023519337
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0749610950506687,
+            "m_prediksi": 1.0675655023519337,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.749610950506687
+                10.675655023519337
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0749610950506687,
+            "m_prediksi_before": 1.0675655023519337,
             "x_actual": 8.700000000000001,
-            "y_actual": 9.141185215627639,
-            "y_prediksi": 9.352161526940819
+            "y_actual": 8.815427444360273,
+            "y_prediksi": 9.287819870461824
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.21097631131318018,
-            "delta_m_before": -0.02425015072565289,
+            "error": -0.4723924261015515,
+            "delta_m_before": -0.05429798001167258,
             "learning_rate": 0.1,
-            "delta_m": -0.0024250150725652893
+            "delta_m": -0.005429798001167259
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0749610950506687,
-            "m_prediksi": 1.0725360799781034
+            "m_prediksi_before": 1.0675655023519337,
+            "m_prediksi": 1.0621357043507664
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0725360799781034,
+            "m_prediksi": 1.0621357043507664,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.725360799781035
+                10.621357043507665
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0725360799781034,
+            "m_prediksi_before": 1.0621357043507664,
             "x_actual": 8.8,
-            "y_actual": 8.836708832709272,
-            "y_prediksi": 9.43831750380731
+            "y_actual": 9.169048777617402,
+            "y_prediksi": 9.346794198286746
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.6016086710980382,
-            "delta_m_before": -0.06836462171568615,
+            "error": -0.1777454206693445,
+            "delta_m_before": -0.020198343257880058,
             "learning_rate": 0.1,
-            "delta_m": -0.006836462171568615
+            "delta_m": -0.002019834325788006
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0725360799781034,
-            "m_prediksi": 1.0656996178065348
+            "m_prediksi_before": 1.0621357043507664,
+            "m_prediksi": 1.0601158700249784
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0656996178065348,
+            "m_prediksi": 1.0601158700249784,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.656996178065349
+                10.601158700249783
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0656996178065348,
+            "m_prediksi_before": 1.0601158700249784,
             "x_actual": 8.9,
-            "y_actual": 8.920006454464906,
-            "y_prediksi": 9.48472659847816
+            "y_actual": 9.755536142497387,
+            "y_prediksi": 9.435031243222308
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.5647201440132541,
-            "delta_m_before": -0.06345170157452293,
+            "error": 0.32050489927507897,
+            "delta_m_before": 0.03601178643540213,
             "learning_rate": 0.1,
-            "delta_m": -0.006345170157452293
+            "delta_m": 0.003601178643540213
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0656996178065348,
-            "m_prediksi": 1.0593544476490824
+            "m_prediksi_before": 1.0601158700249784,
+            "m_prediksi": 1.0637170486685186
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0593544476490824,
+            "m_prediksi": 1.0637170486685186,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.593544476490823
+                10.637170486685186
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0593544476490824,
+            "m_prediksi_before": 1.0637170486685186,
             "x_actual": 9.0,
-            "y_actual": 9.628813370679712,
-            "y_prediksi": 9.534190028841742
+            "y_actual": 9.119248163368143,
+            "y_prediksi": 9.573453438016667
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.09462334183796983,
-            "delta_m_before": 0.010513704648663314,
+            "error": -0.45420527464852434,
+            "delta_m_before": -0.050467252738724926,
             "learning_rate": 0.1,
-            "delta_m": 0.0010513704648663314
+            "delta_m": -0.0050467252738724926
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0593544476490824,
-            "m_prediksi": 1.0604058181139486
+            "m_prediksi_before": 1.0637170486685186,
+            "m_prediksi": 1.0586703233946462
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0604058181139486,
+            "m_prediksi": 1.0586703233946462,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.604058181139486
+                10.586703233946462
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0604058181139486,
+            "m_prediksi_before": 1.0586703233946462,
             "x_actual": 9.1,
-            "y_actual": 9.129163210347405,
-            "y_prediksi": 9.649692944836932
+            "y_actual": 9.370367466707613,
+            "y_prediksi": 9.63389994289128
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.5205297344895268,
-            "delta_m_before": -0.057201069724123824,
+            "error": -0.2635324761836664,
+            "delta_m_before": -0.028959612767435867,
             "learning_rate": 0.1,
-            "delta_m": -0.005720106972412382
+            "delta_m": -0.002895961276743587
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0604058181139486,
-            "m_prediksi": 1.0546857111415362
+            "m_prediksi_before": 1.0586703233946462,
+            "m_prediksi": 1.0557743621179025
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0546857111415362,
+            "m_prediksi": 1.0557743621179025,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.546857111415362
+                10.557743621179025
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0546857111415362,
+            "m_prediksi_before": 1.0557743621179025,
             "x_actual": 9.200000000000001,
-            "y_actual": 9.57562279098859,
-            "y_prediksi": 9.703108542502134
+            "y_actual": 9.48558457075467,
+            "y_prediksi": 9.713124131484705
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.1274857515135448,
-            "delta_m_before": -0.013857146903646173,
+            "error": -0.227539560730035,
+            "delta_m_before": -0.024732560948916845,
             "learning_rate": 0.1,
-            "delta_m": -0.0013857146903646174
+            "delta_m": -0.002473256094891685
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0546857111415362,
-            "m_prediksi": 1.0532999964511716
+            "m_prediksi_before": 1.0557743621179025,
+            "m_prediksi": 1.0533011060230109
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0532999964511716,
+            "m_prediksi": 1.0533011060230109,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.532999964511715
+                10.533011060230109
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0532999964511716,
+            "m_prediksi_before": 1.0533011060230109,
             "x_actual": 9.3,
-            "y_actual": 10.212963872346702,
-            "y_prediksi": 9.795689966995896
+            "y_actual": 10.024222622653173,
+            "y_prediksi": 9.795700286014002
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.41727390535080566,
-            "delta_m_before": 0.044868161865678026,
+            "error": 0.22852233663917154,
+            "delta_m_before": 0.024572294262276508,
             "learning_rate": 0.1,
-            "delta_m": 0.004486816186567803
+            "delta_m": 0.002457229426227651
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0532999964511716,
-            "m_prediksi": 1.0577868126377394
+            "m_prediksi_before": 1.0533011060230109,
+            "m_prediksi": 1.0557583354492386
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0577868126377394,
+            "m_prediksi": 1.0557583354492386,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.577868126377394
+                10.557583354492387
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0577868126377394,
+            "m_prediksi_before": 1.0557583354492386,
             "x_actual": 9.4,
-            "y_actual": 9.998671622074617,
-            "y_prediksi": 9.943196038794751
+            "y_actual": 9.796008951364406,
+            "y_prediksi": 9.924128353222843
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.05547558327986657,
-            "delta_m_before": 0.005901657795730486,
+            "error": -0.12811940185843618,
+            "delta_m_before": -0.013629723601961295,
             "learning_rate": 0.1,
-            "delta_m": 0.0005901657795730486
+            "delta_m": -0.0013629723601961295
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0577868126377394,
-            "m_prediksi": 1.0583769784173125
+            "m_prediksi_before": 1.0557583354492386,
+            "m_prediksi": 1.0543953630890424
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0583769784173125,
+            "m_prediksi": 1.0543953630890424,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.583769784173125
+                10.543953630890424
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0583769784173125,
+            "m_prediksi_before": 1.0543953630890424,
             "x_actual": 9.5,
-            "y_actual": 10.19576279294347,
-            "y_prediksi": 10.054581294964468
+            "y_actual": 10.225710916607069,
+            "y_prediksi": 10.016755949345903
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.1411814979790016,
-            "delta_m_before": 0.014861210313579115,
+            "error": 0.2089549672611657,
+            "delta_m_before": 0.021995259711701652,
             "learning_rate": 0.1,
-            "delta_m": 0.0014861210313579117
+            "delta_m": 0.0021995259711701655
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0583769784173125,
-            "m_prediksi": 1.0598630994486704
+            "m_prediksi_before": 1.0543953630890424,
+            "m_prediksi": 1.0565948890602126
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0598630994486704,
+            "m_prediksi": 1.0565948890602126,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.598630994486705
+                10.565948890602126
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0598630994486704,
+            "m_prediksi_before": 1.0565948890602126,
             "x_actual": 9.600000000000001,
-            "y_actual": 9.878708023021419,
-            "y_prediksi": 10.174685754707237
+            "y_actual": 10.229090122702575,
+            "y_prediksi": 10.143310934978043
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.2959777316858183,
-            "delta_m_before": -0.030831013717272735,
+            "error": 0.08577918772453152,
+            "delta_m_before": 0.008935332054638699,
             "learning_rate": 0.1,
-            "delta_m": -0.0030831013717272735
+            "delta_m": 0.0008935332054638699
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0598630994486704,
-            "m_prediksi": 1.0567799980769432
+            "m_prediksi_before": 1.0565948890602126,
+            "m_prediksi": 1.0574884222656764
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0567799980769432,
+            "m_prediksi": 1.0574884222656764,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.567799980769433
+                10.574884222656763
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0567799980769432,
+            "m_prediksi_before": 1.0574884222656764,
             "x_actual": 9.700000000000001,
-            "y_actual": 10.074015196235722,
-            "y_prediksi": 10.250765981346351
+            "y_actual": 10.335815450634229,
+            "y_prediksi": 10.257637695977062
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.17675078511062914,
-            "delta_m_before": -0.018221730423776197,
+            "error": 0.07817775465716714,
+            "delta_m_before": 0.008059562335790426,
             "learning_rate": 0.1,
-            "delta_m": -0.0018221730423776197
+            "delta_m": 0.0008059562335790426
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0567799980769432,
-            "m_prediksi": 1.0549578250345657
+            "m_prediksi_before": 1.0574884222656764,
+            "m_prediksi": 1.0582943784992556
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0549578250345657,
+            "m_prediksi": 1.0582943784992556,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.549578250345657
+                10.582943784992555
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0549578250345657,
+            "m_prediksi_before": 1.0582943784992556,
             "x_actual": 9.8,
-            "y_actual": 10.461750642748305,
-            "y_prediksi": 10.338586685338745
+            "y_actual": 10.13599807150219,
+            "y_prediksi": 10.371284909292704
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": 0.12316395740955954,
-            "delta_m_before": 0.012567750756077503,
+            "error": -0.23528683779051462,
+            "delta_m_before": -0.024008860999032103,
             "learning_rate": 0.1,
-            "delta_m": 0.0012567750756077504
+            "delta_m": -0.0024008860999032103
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0549578250345657,
-            "m_prediksi": 1.0562146001101735
+            "m_prediksi_before": 1.0582943784992556,
+            "m_prediksi": 1.0558934923993524
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0562146001101735,
+            "m_prediksi": 1.0558934923993524,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.562146001101736
+                10.558934923993524
             ]
         }
     },
     {
         "step1": {
             "action": "dapatkan x_actual , y_actual , y_prediksi",
-            "m_prediksi_before": 1.0562146001101735,
+            "m_prediksi_before": 1.0558934923993524,
             "x_actual": 9.9,
-            "y_actual": 10.072376836080002,
-            "y_prediksi": 10.456524541090719
+            "y_actual": 10.135414276019167,
+            "y_prediksi": 10.45334557475359
         },
         "step2": {
             "action": "hitung error dan dapatkan delta gradient nya",
-            "error": -0.38414770501071693,
-            "delta_m_before": -0.038802798485931,
+            "error": -0.31793129873442183,
+            "delta_m_before": -0.03211427259943655,
             "learning_rate": 0.1,
-            "delta_m": -0.0038802798485931007
+            "delta_m": -0.003211427259943655
         },
         "step3": {
             "action": "update gradient dari error yang di dapat",
-            "m_prediksi_before": 1.0562146001101735,
-            "m_prediksi": 1.0523343202615805
+            "m_prediksi_before": 1.0558934923993524,
+            "m_prediksi": 1.0526820651394087
         },
         "step4": {
             "action": "setelah gradient telah di perbarui dari error yang di dapat, hitung lagi fungsi linear aggression dari gradient yang terbaru",
-            "m_prediksi": 1.0523343202615805,
+            "m_prediksi": 1.0526820651394087,
             "x_prediksi": [
                 0,
                 10
             ],
             "y_prediksi": [
                 0.0,
-                10.523343202615806
+                10.526820651394086
             ]
         }
     }
